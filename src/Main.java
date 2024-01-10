@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Нурмухаммед Медетов");
         System.out.println("Keldibekova Myrzaiym");
         System.out.println("Keldibekova Myrzaiym");
+        System.out.println("Keldibekova Myrzaiym");
 
     }
 }
