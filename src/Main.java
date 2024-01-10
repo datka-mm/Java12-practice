@@ -26,5 +26,6 @@ public class Main {
         System.out.println("НУРМУХАММЕД.R ! 😎😍");
         System.out.println("Zaripbek kursanov");
         System.out.println("Mirlan Arstanbekov");
+
     }
 }
