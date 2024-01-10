@@ -12,10 +12,9 @@ public class Main {
         System.out.println("Baktygul Jumagazyeva");
 
         System.out.println("Temirbekov Aliaskar ");
+        System.out.println("Alapaeva Z");
 
         System.out.println("Жигит Турмбеков");
-        System.out.println("Keldibekova Myrzaiym");
-        System.out.println("Nurlan Abiibillaev");
-        System.out.println("Nurislam Toygonbaev");
+
     }
 }
