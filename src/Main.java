@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Нурмухаммед Медетов");
         System.out.println("Nurlan Abiibillaev");
         System.out.println("Nurislam Toygonbaev");
+        System.out.println("Baktygul Jumagazyeva");
 
 
     }
