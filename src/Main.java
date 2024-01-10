@@ -4,6 +4,8 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Nurtaazim mukanov");
         System.out.println("Нурмухаммед Медетов");
+        System.out.println("🔴🔴🔴🔴🔴🔴🔴🔴Таалайбеков Жандар\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
+
 
         System.out.println("Nurlan Abiibillaev");
         System.out.println("Nurislam Toygonbaev");
