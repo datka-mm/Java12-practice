@@ -7,8 +7,13 @@ public class Main {
 
         System.out.println("Nurtaazim mukanov");
         System.out.println("Нурмухаммед Медетов");
+ 
+        System.out.println("Keldibekova Myrzaiym");
+        System.out.println("Keldibekova Myrzaiym");
+
         System.out.println("kandyneklava11");
         System.out.println("🔴🔴🔴🔴🔴🔴🔴🔴Таалайбеков Жандар\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
+
 
 
         System.out.println("Nurlan Abiibillaev");
