@@ -4,6 +4,7 @@ public class Main {
 
         System.out.println("Hello Java-12");
         System.out.println("Hello world!");
+
         System.out.println("Nurtaazim mukanov");
         System.out.println("Нурмухаммед Медетов");
         System.out.println("kandyneklava11");
@@ -20,8 +21,8 @@ public class Main {
         System.out.println("Keldibekova Myrzaiym");
         System.out.println("Nurlan Abiibillaev");
         System.out.println("Nurislam Toygonbaev");
-
-
         System.out.println("НУРМУХАММЕД.R ! 😎😍");
+        System.out.println("Zaripbek kursanov");
+        System.out.println("Mirlan Arstanbekov");
     }
 }
