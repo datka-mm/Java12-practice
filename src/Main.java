@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
+
+
         System.out.println("Hello Java-12");
         System.out.println("Hello world!");
 
@@ -19,11 +21,8 @@ public class Main {
         System.out.println("Keldibekova Myrzaiym");
         System.out.println("Nurlan Abiibillaev");
         System.out.println("Nurislam Toygonbaev");
+        System.out.println("НУРМУХАММЕД.R ! 😎😍");
         System.out.println("Zaripbek kursanov");
-
         System.out.println("Mirlan Arstanbekov");
-        System.out.println("Datka Mamatzhanova");
-        System.out.println("Peaksoft House");
-
     }
 }
