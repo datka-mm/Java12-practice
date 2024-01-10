@@ -22,6 +22,8 @@ public class Main {
         System.out.println("Zaripbek kursanov");
 
         System.out.println("Mirlan Arstanbekov");
+        System.out.println("Datka Mamatzhanova");
+        System.out.println("Peaksoft House");
 
     }
 }
